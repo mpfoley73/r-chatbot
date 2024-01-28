@@ -6,7 +6,7 @@
 
 user_template <-
 '<div class="chat-message user">
-    <div class="avatar" style="font-size:2rem;">🧑</span></div>
+    <div class="avatar" style="font-size:2rem;">🧑</div>
     <div class="message">MESSAGE_TEXT</div>
 </div>'
 
